@@ -1,0 +1,20 @@
+{
+    "name": "apm-engine",
+    "version": "1.0.0",
+    "description": "APM Engine Server",
+    "main": "index.ts",
+    "scripts": {
+        "start": "ts-node index.ts",
+        "build": "tsc"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.21",
+        "@types/node": "^20.0.0",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.0.0"
+    }
+}
