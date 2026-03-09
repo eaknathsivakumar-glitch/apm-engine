@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
   project: eak-webap
-  appName: test1
+  appName: test-2
   config:
     codeReview:
       summarize: true
